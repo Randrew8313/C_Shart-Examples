@@ -1,4 +1,6 @@
-﻿int numberA = new Random().Next(1, 100); //1 2 3 4 5 ... 99
+﻿// Код для программы сложения двух чисел
+
+int numberA = new Random().Next(1, 100); //1 2 3 4 5 ... 99
 Console.Write("Первое число ");
 Console.WriteLine(numberA);
 int numberB = new Random().Next(1, 100);

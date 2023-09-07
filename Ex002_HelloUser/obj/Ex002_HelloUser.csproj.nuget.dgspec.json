@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {}
+    "d:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {}
   },
   "projects": {
-    "D:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {
+    "d:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
+        "projectUniqueName": "d:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
         "projectName": "Ex002_HelloUser",
-        "projectPath": "D:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
+        "projectPath": "d:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
         "packagesPath": "C:\\Users\\randr\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\obj\\",
+        "outputPath": "d:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\randr\\AppData\\Roaming\\NuGet\\NuGet.Config"

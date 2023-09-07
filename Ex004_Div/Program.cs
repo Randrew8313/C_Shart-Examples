@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Программа для вычисления частного двух чисел
+
+double numberA = 13;
+double numberB = 2;
+Console.WriteLine(numberA / numberB);
