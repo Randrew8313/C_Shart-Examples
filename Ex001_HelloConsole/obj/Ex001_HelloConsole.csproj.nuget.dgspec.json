@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GB\\S_Shart_Examples\\Ex001_HelloConsole\\Ex001_HelloConsole.csproj": {}
+    "e:\\GB\\C_Sharp-Examples\\C_Shart-Examples\\Ex001_HelloConsole\\Ex001_HelloConsole.csproj": {}
   },
   "projects": {
-    "d:\\GB\\S_Shart_Examples\\Ex001_HelloConsole\\Ex001_HelloConsole.csproj": {
+    "e:\\GB\\C_Sharp-Examples\\C_Shart-Examples\\Ex001_HelloConsole\\Ex001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GB\\S_Shart_Examples\\Ex001_HelloConsole\\Ex001_HelloConsole.csproj",
+        "projectUniqueName": "e:\\GB\\C_Sharp-Examples\\C_Shart-Examples\\Ex001_HelloConsole\\Ex001_HelloConsole.csproj",
         "projectName": "Ex001_HelloConsole",
-        "projectPath": "d:\\GB\\S_Shart_Examples\\Ex001_HelloConsole\\Ex001_HelloConsole.csproj",
-        "packagesPath": "C:\\Users\\randr\\.nuget\\packages\\",
-        "outputPath": "d:\\GB\\S_Shart_Examples\\Ex001_HelloConsole\\obj\\",
+        "projectPath": "e:\\GB\\C_Sharp-Examples\\C_Shart-Examples\\Ex001_HelloConsole\\Ex001_HelloConsole.csproj",
+        "packagesPath": "C:\\Users\\Andreika\\.nuget\\packages\\",
+        "outputPath": "e:\\GB\\C_Sharp-Examples\\C_Shart-Examples\\Ex001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\randr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Andreika\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
