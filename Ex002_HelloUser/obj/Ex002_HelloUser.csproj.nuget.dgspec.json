@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "e:\\GB\\C_Sharp-Examples\\C_Shart-Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {}
+    "d:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {}
   },
   "projects": {
-    "e:\\GB\\C_Sharp-Examples\\C_Shart-Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {
+    "d:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\GB\\C_Sharp-Examples\\C_Shart-Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
+        "projectUniqueName": "d:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
         "projectName": "Ex002_HelloUser",
-        "projectPath": "e:\\GB\\C_Sharp-Examples\\C_Shart-Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
-        "packagesPath": "C:\\Users\\Andreika\\.nuget\\packages\\",
-        "outputPath": "e:\\GB\\C_Sharp-Examples\\C_Shart-Examples\\Ex002_HelloUser\\obj\\",
+        "projectPath": "d:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
+        "packagesPath": "C:\\Users\\randr\\.nuget\\packages\\",
+        "outputPath": "d:\\GB\\S_Shart_Examples\\Ex002_HelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Andreika\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\randr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }
